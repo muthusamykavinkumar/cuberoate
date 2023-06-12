@@ -69,9 +69,9 @@ position: absolute;
     background-color:rgb(230, 109, 109) ;
     transform:translateZ(-380px) ;
     filter: blur(10px);
-    /* box-shadow: 0 0 120px rgb(248, 3, 3), 
+    box-shadow: 0 0 120px rgb(248, 3, 3), 
     0 0 300px rgb(211, 78, 78),
     0 0 500px rgb(202, 119, 119),
     0 0 700px rgb(209, 157, 157),
-     0 0 1000px rgb(190, 178, 178); */
+     0 0 1000px rgb(190, 178, 178); 
 }
